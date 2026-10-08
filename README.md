@@ -19,11 +19,22 @@
 
 ---
 
-### 🔥 Featured Project
+## ⚡ The GRIND Protocol
+> *"Relentless engineering, autonomous execution, and zero-compromise shipping."*
 
-| Project | Description | Tech Stack | Live Link |
+The **GRIND** protocol governs how I build and scale software:
+- **Autonomous & Voice-First**: Building zero-cost intelligent agents that interact naturally via speech and real-time reasoning.
+- **Primefold Design System**: Crafting sleek, typography-led B2B interfaces with brutalist efficiency and clean dark/light themes.
+- **Production-Grade Rigor**: Zero tolerance for fabricated mocks or broken builds — verified end-to-end with real execution.
+
+---
+
+## 🚀 Featured Projects & Contributions
+
+| Project | Description | Tech Stack & Status | Links |
 | :--- | :--- | :--- | :--- |
-| **[GD Arena](https://github.com/kartikey-bhadauria/gd-arena)** | Voice-first AI simulation platform for campus placement group discussions & technical interviews. | Python, Flask, Web Speech API, `edge-tts`, Gemini Flash Lite | [Live Demo](https://gd-arena-phi.vercel.app) |
+| **[GD Arena](https://github.com/kartikey-bhadauria/gd-arena)** | Voice-first AI simulation platform for campus placement group discussions & technical interviews. | Python, Flask, Web Speech API, `edge-tts`, Gemini Flash Lite | [Live App](https://gd-arena-phi.vercel.app) • [Repo](https://github.com/kartikey-bhadauria/gd-arena) |
+| **GRIND Core** | High-velocity autonomous agent infrastructure and workflow automation pipelines. | Python, n8n, LLM Orchestration | *Private / Core Engine* |
 
 ---
 
